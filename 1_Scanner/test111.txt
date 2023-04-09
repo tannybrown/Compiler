@@ -1,0 +1,16 @@
+int a = 0;
+
+/*
+
+
+int c = 2;
+
+   */int g = 0;
+A
+int a = 2;
+int b =2;
+int c = 3;
+
+/*
+
+
